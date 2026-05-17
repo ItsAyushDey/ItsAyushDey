@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**ItsAyushDey/ItsAyushDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student
+💻 Learning Web Development, Game Development & Open Source
+🚀 Building random ideas into real projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+
+* Git & GitHub
+* Web Development
+* Game Development with Godot
+* Open Source Contribution Workflow
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Resume Analyzer
+
+AI-powered resume analyzer built using FastAPI and Gemini for intelligent resume feedback and scoring.
+
+### 💬 My Chatbot
+
+A chatbot project focused on conversational interaction and experimentation.
+
+### 📱 EquiRAG
+
+A Flutter/Dart-based project exploring modern app development concepts.
+
+---
+
+## 🎯 Goals for 2026
+
+* Contribute to Open Source consistently
+* Participate in GSSoC & Hacktoberfest
+* Build polished projects and mini games
+* Improve problem-solving and development skills
+* Prepare for GSoC
+
+---
+
+## 🌐 Connect With Me
+
+* Linkedin: [https://www.linkedin.com/in/ayush-dey-179692213/]
