@@ -43,4 +43,4 @@ A Flutter/Dart-based project exploring modern app development concepts.
 
 ## 🌐 Connect With Me
 
-* Linkedin: [https://www.linkedin.com/in/ayush-dey-179692213/]
+* LinkedIn: [https://www.linkedin.com/in/ayush-dey-179692213/]
